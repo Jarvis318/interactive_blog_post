@@ -6,5 +6,7 @@ First attempt at creating a blog side that a user can input content and view tho
 ## Usage
 On the first Page, the user is prompted to put in a Title, the name they would like to go by, and the content of their blog post. Then, after clicking submit, their blog post is displayed on the second page. The user can then press the back button located at the top left of the page, to go back to the original page, and submit another blog post. Each blog post will be displayed on the the second page, in the order submitted. Finally, there is a sun icon that functions as a button to change the page from dark to light mode as the user prefers.
 
+Link to the site: https://jarvis318.github.io/interactive_blog_post/
+
 ![assets/images/First Page.png](https://github.com/Jarvis318/interactive_blog_post/blob/fb94a0d21d452b1ca6aba626ed1cfabaccc155ac/assets/images/First%20Page.png)
 ![assets/images/Second Page.png](https://github.com/Jarvis318/interactive_blog_post/blob/f6005e28c620e51aaf254d4b85688ce879314924/assets/images/Second%20Page.png)
