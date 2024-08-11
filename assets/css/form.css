@@ -1,0 +1,11 @@
+header
+{
+    display: flex; /* NOTE: Needed even though we defined display:flex in body. */
+    justify-content: flex-end;
+    align-items: center;
+    padding: 2%;
+    background-color: #13293d;
+    color: #fff;
+    border-bottom: 10px solid black;
+}
+
